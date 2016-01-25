@@ -1,0 +1,12 @@
+[submodule "vendor/bootstrap"]
+	path = vendor/bootstrap
+	url = git@github.com:twbs/bootstrap.git
+[submodule "vendor/babylonjs"]
+	path = vendor/babylonjs
+	url = git@github.com:BabylonJS/Babylon.js.git
+[submodule "vendor/node-sass"]
+	path = vendor/node-sass
+	url = git@github.com:sass/node-sass.git
+[submodule "vendor/handjs"]
+	path = vendor/handjs
+	url = git@github.com:deltakosh/handjs.git
