@@ -10,3 +10,6 @@
 [submodule "vendor/handjs"]
 	path = vendor/handjs
 	url = git@github.com:deltakosh/handjs.git
+[submodule "vendor/sekai"]
+	path = vendor/sekai
+	url = git@github-sekai:oku-no-sekai/sekai.git
