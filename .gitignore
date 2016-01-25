@@ -1,0 +1,4 @@
+node_modules
+build/linux/*
+build/osx/*
+build/windows/*
